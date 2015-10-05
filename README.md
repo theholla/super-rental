@@ -1,5 +1,5 @@
-## A project by **Juliana Suzuki, Molly Waggett, Diana Holland**
-Date of current version: 9/29/2015
+## A project by **Juliana Suzuki and Diana Holland**
+Date of current version: 10/5/2015
 
 # Super-rentals
 
@@ -10,10 +10,10 @@ Following along with an Epicodus lesson. This application allows a user to keep 
 You will need the following things properly installed on your computer.
 
 * [Git](http://git-scm.com/)
-* [Node.js](http://nodejs.org/) (with NPM)
-* [Bower](http://bower.io/)
-* [Ember CLI](http://www.ember-cli.com/)
-* [PhantomJS](http://phantomjs.org/)
+* [Node.js](http://nodejs.org/) (with NPM) - an open-source, cross-platform runtime environment for developing server-side web applications
+* [Bower](http://bower.io/) - a package manager for JS libraries
+* [Ember CLI](http://www.ember-cli.com/) - the Ember.js command line utility (uses Broccoli, an asset-pipeline for builds)
+* [PhantomJS](http://phantomjs.org/) - a scripted, headless browser used for automating webpage interaction
 
 ## Installation
 
