@@ -4,4 +4,5 @@ export default DS.Model.extend({
   cityName: DS.attr(),
   country: DS.attr(),
   attractions: DS.attr(),
+  rentals: DS.hasMany('rental', { async: true })
 });
