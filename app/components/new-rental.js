@@ -14,6 +14,7 @@ export default Ember.Component.extend({
         type: this.get('type'),
         image: this.get('image'),
         bedrooms: this.get('bedrooms'),
+        date_added: Date.now()
       };
       this.set('addNewRental', false),
       this.sendAction('save2', params); //Expected an assignment or function call and instead saw an expression.
